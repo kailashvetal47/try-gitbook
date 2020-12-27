@@ -16,7 +16,7 @@ Updated: 'Dec 23, 2020 7:32 PM'
 ArticleIndex: 3
 ---
 
-# Doom - Yes
+# Doom - Yes ok
 
 \[DOOM\]\([https://en.wikipedia.org/wiki/Doom\_\(1993\_video\_game](https://en.wikipedia.org/wiki/Doom_%281993_video_game)\)\) pioneered fundamental changes in game design and mechanics back in 1993, it was a world-wide phenomenon which propelled to fame iconic figures like [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) and [John Romero](https://en.wikipedia.org/wiki/John_Romero)…
 
